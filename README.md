@@ -1,5 +1,5 @@
-<h2> Hi </h2>
-<h2> I'm Randy Grullon!</h2>
+# Hi 
+## I'm Randy Grullon!
 
 ### about me...
 
