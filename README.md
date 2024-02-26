@@ -18,7 +18,7 @@ const Randin = {
     location: "Santo Domingo, Dominican Republic",
   },
   hobbies: ["Gaming", "Coding", "sports"],
-  funFact:"I'm a huge fan of the NFL and the NBA. I love the Lakers and the Ravens. 🏈🏀",
+  funFact: "I'm a huge fan of the NFL and the NBA. I love the Lakers and the Ravens. 🏈🏀",
   IG: "https://www.instagram.com/randygrullon24/",
   linkedin: "https://www.linkedin.com/in/randy-grullon-8943a51ba/",
   github: "https://www.github.com/randygrullon",
