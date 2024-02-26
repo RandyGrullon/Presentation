@@ -25,13 +25,10 @@ const Randin = {
 };
 ```
 
-<div
-    style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;"
->
 [![Instagram: Randy Grullon](https://img.shields.io/badge/-randygrullon24-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/randygrullon24/)](https://www.instagram.com/randygrullon24/)
 
 [![Linkedin: Randy Grullon](https://img.shields.io/badge/-Randy_Grullon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randy-grullon-8943a51ba/)](https://www.linkedin.com/in/randy-grullon-8943a51ba/)
 
 [![GitHub Randy Grullon](https://img.shields.io/github/followers/randygrullon?label=follow&style=social)](https://github.com/randygrullon)
-</div>
+
 ---
